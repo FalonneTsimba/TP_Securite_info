@@ -1,5 +1,5 @@
 <?php
-
+/*Par Tsimba falonne */
 class generationKey{
     /*$tabK est la valeur initial de k*/
     private static $tabk=[0,1,1,0,1,1,0,1];
